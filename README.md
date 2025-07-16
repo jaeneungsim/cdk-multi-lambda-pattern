@@ -4,11 +4,9 @@
 ![Framework](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=aws-cdk&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
-This project is a professional reference implementation for building multiple AWS Lambda functions and their corresponding API Gateway endpoints from a single, centralized configuration file. It demonstrates a powerful, scalable, and maintainable pattern for managing serverless applications on AWS using the AWS Cloud Development Kit (CDK).
+This project demonstrates how to easily implement a configuration-driven pattern for building multiple AWS Lambda functions and their corresponding API Gateway endpoints from a single, centralized configuration file. It showcases a powerful, scalable, and maintainable approach for managing serverless applications on AWS using the AWS Cloud Development Kit (CDK).
 
-This repository serves as a professional **reference implementation** for building multiple AWS Lambda functions and their corresponding API Gateway endpoints from a single, centralized configuration file. It demonstrates a powerful, scalable, and maintainable pattern actively used in modern cloud environments for managing serverless applications on AWS.
-
-This project is designed to help teams bootstrap their own configuration-driven serverless applications, providing a production-ready foundation based on industry best practices.
+**⚠️ Important:** This is a demonstration project intended for learning and development purposes. For production environments, ensure proper security configurations including AWS WAF, appropriate IAM policies, VPC settings, and other security best practices are implemented. This codebase should not be deployed directly to production without thorough security review and hardening.
 
 ## Key Features
 
